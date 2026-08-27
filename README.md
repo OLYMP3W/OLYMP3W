@@ -1,116 +1,151 @@
+<div align="center">
+
 # ⚡ OLYMPE
 
-> Building the future, one project at a time.
+### Building Africa's Next Generation of Digital Products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Founder.;Full-Stack+Developer.;AI+Builder.;Future+Tech+Entrepreneur.;Building+Products+for+Africa." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Founder+%7C+Builder+%7C+Visionary;Creating+Technology+For+Millions;Building+The+Future+From+Africa;One+Project+At+A+Time" />
 
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=OLYMP3W&label=Visitors&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/OLYMP3W?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/OLYMP3W?style=for-the-badge"/>
+</p>
 
-## 🚀 Who Am I?
-
-I'm Olympe.
-
-A builder obsessed with technology, startups, artificial intelligence and digital products.
-
-My mission is simple:
-
-**Create technology that solves real problems and impacts millions of people.**
-
-Every repository here is a step toward that vision.
+</div>
 
 ---
 
-## 🧠 Current Projects
+# 🌍 THE MISSION
 
-### 🏠 Domia
-The next generation platform for:
-- Real Estate
-- Vehicle Marketplace
-- Rentals
-- Local Services
+Most people consume technology.
 
-### 📄 DocFlow
-Administrative templates and compliance tools for SMEs.
+I build it.
 
-### 🚗 Express Coursier
-Smart delivery ecosystem with real-time tracking.
+Most people wait for opportunities.
 
-### 🤖 AI Projects
-Building AI-powered tools for productivity and business automation.
+I create them.
+
+Most people dream about the future.
+
+I am building it.
 
 ---
 
-## ⚙️ Tech Stack
+# 🚀 CURRENT EMPIRE
 
-```txt
-Frontend
-React • Next.js • TailwindCSS • TypeScript
+## 🏠 DOMIA
 
-Backend
-Node.js • Supabase • PostgreSQL
+Reinventing real estate, vehicles and services.
 
-Mobile
-React Native • Capacitor
+The goal isn't another marketplace.
 
-Cloud
-Vercel • GitHub • Cloud Services
+The goal is to create an ecosystem.
 
-AI
-OpenAI • Gemini • Claude
+---
+
+## 📄 DOCFLOW
+
+Making business administration simple.
+
+Documents.
+Processes.
+Compliance.
+
+All in one place.
+
+---
+
+## 🚗 EXPRESS COURSIER
+
+Fast.
+Smart.
+Connected.
+
+The future of local delivery.
+
+---
+
+## 🤖 AI LAB
+
+Exploring artificial intelligence.
+
+Building tools that save time.
+
+Creating systems that scale.
+
+---
+
+# ⚔️ BUILD. LEARN. REPEAT.
+
+```mermaid
+graph LR
+
+A[Idea] --> B[Prototype]
+B --> C[Launch]
+C --> D[Feedback]
+D --> E[Improve]
+E --> F[Scale]
+F --> G[Impact]
 ```
 
-## 📈 My Vision
+---
 
-I don't build projects for fun.
+# 📊 LIVE DATA
 
-I build systems.
-
-Systems become products.
-Products become companies.
-Companies create impact.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OLYMP3W&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=OLYMP3W&hide_border=true"/>
+</p>
 
 ---
 
-## 🌍 Mission
+# 🧠 TECH ARSENAL
 
-Build world-class technology from Africa.
+<div align="center">
 
-Create opportunities.
+React • Next.js • TypeScript
 
-Solve real problems.
+Supabase • PostgreSQL
 
-Scale globally.
+Node.js • APIs
 
----
+React Native
 
-## 📊 GitHub Stats
+AI • Automation • SaaS
 
-![](https://github-readme-stats.vercel.app/api?username=OLYMP3W&show_icons=true)
+Vercel • GitHub • Cloud
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=OLYMP3W)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OLYMP3W&layout=compact)
+</div>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 THE NEXT CHAPTER
 
-- Launch multiple SaaS products
-- Reach 10,000+ users
-- Build profitable digital businesses
-- Contribute to open source
-- Scale internationally
+□ Launch products
 
----
+□ Acquire users
 
-## 🤝 Let's Connect
+□ Build systems
 
-⭐ Follow my journey.
+□ Scale globally
 
-🚀 Watch the repositories.
-
-💡 Build something extraordinary.
+□ Create impact
 
 ---
 
-# "The future belongs to those who build it."
+<div align="center">
+
+# ⚡ FOLLOW THE JOURNEY
+
+You are not looking at a portfolio.
+
+You are watching a mission in progress.
+
+⭐ Follow the account
+
+🚀 Watch the repositories
+
+🌍 Join the journey
+
+</div>
